@@ -1,5 +1,5 @@
-# PyTorch CPU (for Streamlit Cloud)
-torch==2.1.0+cpu --index-url https://download.pytorch.org/whl/cpu
+# PyTorch CPU for Streamlit Cloud
+torch==2.9.1+cpu --index-url https://download.pytorch.org/whl/cpu
 torchvision==0.16.0+cpu --index-url https://download.pytorch.org/whl/cpu
 
 # Main dependencies
